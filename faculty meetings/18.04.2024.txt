@@ -1,0 +1,23 @@
+Winterkurse 2024 und andere
+
+Winter classes:
+1. Potential mistake in instructors submitting 2 seminars on interpretability (Ostermann's seminars)
+2. McCurdy seminar - to figure out if offered as block
+3. AI-based information access - advertised being kinda like AQA seminar
+4. Scientific communication - to be clarified: place and designated instructor
+5. Concern about having core NLP in proseminars for Bachelors
+6. Bachelors have priority in Software Projects, raise awareness about this
+7. Standardizing evaluation process in seminars and making more software projects in them
+8. More info will be gather for Bachelor lectures by Talamo
+
+CoLi Bachelor
+1. Grammatikformalismen is gone, Neural Architectures for NLP instead - topics revealed by Koller
+2. Mandatory EML - concerning
+3. LangSci - being redesigned from having base modules to having core courses and electives
+4. Logic/Syntax were switched semesterwise due to CP and EML being included
+5. Moving around NNIA and Neural Architectures, potential swap in the 5th semester
+6. Linguistische Daten to be done before thesis, content on preprocessing to be included in the class
+
+Other Concerns
+1. Problems with LST clusters - need to have onboarding with either a shared doc or mentioned in some class
+2. Master Thesis concerns - wanting to have a list of eligible supervisors and topics, idea not supported by Thater, potentially just do it anyway ourselves
